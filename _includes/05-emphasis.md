@@ -5,6 +5,6 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 - sometimes I go _mountain climbing_ etc.
 
 ## these are some languages i know:
-- **chinese**
+- **chinese** :sparkles:
 - **japanese**
 - **english**
